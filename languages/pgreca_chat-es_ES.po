@@ -1,0 +1,221 @@
+# LANGUAGE Itian translation for PGreca Chat
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: pgreca_chat 0.7\n"
+"POT-Creation-Date: 2017-06-11 17:06+0200\n"
+"PO-Revision-Date: 2017-06-11 20:44+0200\n"
+"Last-Translator: PGreca <anpgreca@gmail.com>\n"
+"Language-Team: es_ES\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Report-msgid -Bugs-To: PGreca <anpgreca@gmail.com>\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: pgreca-chat.php:84
+msgid "Messages"
+msgstr "Mensajes"
+
+#: pgreca-chat.php:85 pgreca-chat_settings.php:19
+msgid "Settings"
+msgstr "Opciones"
+
+#: pgreca-chat_admin.php:22 pgreca-chat_admin.php:28 pgreca-chat_admin.php:34
+#: pgreca-chat_admin.php:39
+msgid "Version"
+msgstr "Version"
+
+#: pgreca-chat_admin.php:24
+msgid ""
+"Add status member (online/offline), when a member is offline can't send "
+"message but it can receive new messages)"
+msgstr ""
+
+#: pgreca-chat_admin.php:25
+msgid ""
+"Add sound notification for new message.  (in ver. 0.8 will add a option for "
+"disable sound)"
+msgstr ""
+
+#: pgreca-chat_admin.php:26
+msgid "Now the chat scroll bottom when receive new messages"
+msgstr ""
+
+#: pgreca-chat_admin.php:30
+msgid "Are you looking for ver. 0.5? It' s was kidnaped by aliens. "
+msgstr "Cerchi la ver. 0.5? E' stata rapita dagli alieni"
+
+#: pgreca-chat_admin.php:31
+msgid "Enable private chat for: None, Friends and All"
+msgstr ""
+
+#: pgreca-chat_admin.php:32
+msgid ""
+"Add private chat for members and add a private chat button to profiles if "
+"Buddypress is active"
+msgstr ""
+
+#: pgreca-chat_admin.php:36
+msgid "Add panel emoticon"
+msgstr ""
+
+#: pgreca-chat_admin.php:37
+msgid "Add player for Youtube Videos"
+msgstr ""
+
+#: pgreca-chat_admin.php:41
+msgid ""
+"Page of summary of the plugin with the changelog of the latest version and "
+"the futures updates."
+msgstr ""
+
+#: pgreca-chat_admin.php:42
+msgid "Moderation message (publish, bin, delete permanently)"
+msgstr ""
+
+#: pgreca-chat_admin.php:43
+msgid "Codify ROT13 for the messages"
+msgstr ""
+
+#: pgreca-chat_admin.php:104 pgreca-chat_admin.php:161
+msgid "Message"
+msgstr "Mensaje"
+
+#: pgreca-chat_admin.php:105 pgreca-chat_admin.php:162
+msgid "Author"
+msgstr "Autor"
+
+#: pgreca-chat_admin.php:106 pgreca-chat_admin.php:163
+msgid "Date"
+msgstr "Fecha"
+
+#: pgreca-chat_admin.php:125
+msgid "Bin"
+msgstr "Borar"
+
+#: pgreca-chat_admin.php:129
+msgid "Restore"
+msgstr ""
+
+#: pgreca-chat_admin.php:130
+msgid "Delete Permanently"
+msgstr ""
+
+#: pgreca-chat_admin.php:152
+msgid "Publish"
+msgstr "Publicado"
+
+#: pgreca-chat_functions.php:10
+msgid "Open"
+msgstr "Apres"
+
+#: pgreca-chat_functions.php:10
+msgid "Close"
+msgstr "Cerrar"
+
+#: pgreca-chat_functions.php:26
+msgid "Status"
+msgstr ""
+
+#: pgreca-chat_functions.php:31
+msgid "Update"
+msgstr ""
+
+#: pgreca-chat_functions.php:40 pgreca-chat_functions.php:221
+msgid "Write a message"
+msgstr ""
+
+#: pgreca-chat_functions.php:42
+msgid "Login for write!"
+msgstr ""
+
+#: pgreca-chat_functions.php:84
+msgid "Your browser does not support the audio element."
+msgstr ""
+
+#: pgreca-chat_functions.php:143
+msgid "Nobody is online"
+msgstr ""
+
+#: pgreca-chat_functions.php:145 pgreca-chat_functions.php:149
+msgid "You are offline"
+msgstr ""
+
+#: pgreca-chat_settings.php:24
+msgid "Settings updated successfully"
+msgstr ""
+
+#: pgreca-chat_settings.php:28
+msgid "Hide this notification"
+msgstr ""
+
+#: pgreca-chat_settings.php:39
+msgid "Head - Color Text"
+msgstr ""
+
+#: pgreca-chat_settings.php:43
+msgid "Body - Color Text Message"
+msgstr ""
+
+#: pgreca-chat_settings.php:48
+msgid "Body - Color Text Message Personal"
+msgstr ""
+
+#: pgreca-chat_settings.php:52
+msgid "Body - Color Background Message"
+msgstr ""
+
+#: pgreca-chat_settings.php:56
+msgid "Body - Color Background Message Personal"
+msgstr ""
+
+#: pgreca-chat_settings.php:60
+msgid "Body - Color Background Send Message"
+msgstr ""
+
+#: pgreca-chat_settings.php:64
+msgid "Hide ads on Admin Page"
+msgstr ""
+
+#: pgreca-chat_settings.php:67
+msgid "You aren' t obligated but I would be grateful if you not active it"
+msgstr ""
+
+#: pgreca-chat_settings.php:80
+msgid "Show the private chat button in the profiles"
+msgstr ""
+
+#: pgreca-chat_settings.php:91
+msgid "Enable private chat for"
+msgstr ""
+
+#: pgreca-chat_settings.php:95
+msgid "None"
+msgstr ""
+
+#: pgreca-chat_settings.php:99
+msgid "Friends"
+msgstr ""
+
+#: pgreca-chat_settings.php:103
+msgid "All"
+msgstr ""
+
+#~ msgid "Futures updates"
+#~ msgstr "Aggiornamenti futuri"
+
+#~ msgid "%s ago"
+#~ msgstr "%s fa"
+
+#~ msgid "message"
+#~ msgstr "messaggio"
+
+#~ msgid "Impostazioni"
+#~ msgstr "Impostazioni"
